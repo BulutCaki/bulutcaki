@@ -18,7 +18,6 @@ Projects (https://github.com/Sepetteyim)
 <code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 <code><a href="https://www.microsoft.com" target="_blank"><img height="50" src="https://lh3.googleusercontent.com/proxy/4QSPFamGCGAw465VmOHgl46zZLn_3zrbR1gb-22u-kMFrDPZPdY5wXzrXjHz1bqN4QVKigqnQl8Ud0RD"></a></code>
 <code><a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
-<code><a href="https://tr.reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
@@ -29,10 +28,10 @@ Projects (https://github.com/Sepetteyim)
 
 ## Contact Me 📫
 
-You can find and get touch with me on these accounts!
+You can find and get touch with me on these accounts! </br>
+Discord: BulutÇakı#8059 </br>
+[![Linkedin Badge](https://img.shields.io/badge/bulutcaki-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/bulutcaki)
 
-[![Linkedin Badge](https://img.shields.io/badge/tolgahanozturk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tolgahanozturk/)
-[![Instagram Badge](https://img.shields.io/badge/tolgahanozturk-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/tolgahannnozturkkk/)
 
 ## Ask me about 💬
 
