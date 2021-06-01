@@ -39,11 +39,8 @@ You can find and get touch with me on these accounts!
 I'd like to get in touch with the following topics
 
   - Design Patterns
-  - CQRS & BDD
+  - OOP
   - Clean Architecture
-  - Scrum
-  - Agile
   - .NET Core
   - .NET MVC
-  - Flutter
   - MSSQL
