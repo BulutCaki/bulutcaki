@@ -3,13 +3,11 @@
 
 My name is Bulut Çakı. I live in Ankara/Turkey.
 
-![Tolgahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slayerprogrammer&show_icons=true)
+![Bulut Caki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BulutCaki&show_icons=true)
 
 ## Job
 
-I'm working as a Co-Founder & CTO at [Ardensoft](https://www.sepetteyim.com)
-
-I'm writing as a [Medium](https://tolgahanozturk.medium.com/)
+I'm working as a Backend Developer(https://www.sepetteyim.com)
 
 ## I'm currently working on 🔭
 
