@@ -1,7 +1,7 @@
 ### Hi! And welcome to my github. 👋
 
 
-My name is Bulut Çakı. I live in Ankara/Turkey.
+My name is Bulut Çakı. I live in İstanbul/Turkey.
 
 ![Bulut Caki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BulutCaki&show_icons=true)
 
